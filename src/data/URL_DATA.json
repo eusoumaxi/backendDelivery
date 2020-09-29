@@ -1,0 +1,4 @@
+{
+  "URL_API_WEATHER_CURRENT": "http://api.weatherapi.com/v1/current.json",
+  "WEATHER_KEY": "?key=a11e5e346dc04ba2912164622202809"
+}
