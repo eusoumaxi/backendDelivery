@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const URL_DATA = require('../data/URL_DATA.json');
+const URL_DATA = require('../../data/URL_DATA.json');
 
 const beatifulDay = async (req) => {
   const fetchWeather1 = await fetch(

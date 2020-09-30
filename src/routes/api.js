@@ -1,5 +1,5 @@
 const express = require('express');
-const dataDelivery = require('../services/dataDelivery');
+const dataDelivery = require('../services/vanilla/dataDelivery');
 
 const router = express.Router();
 
