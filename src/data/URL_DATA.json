@@ -2,5 +2,5 @@
   "URL_API_WEATHER_CURRENT": "http://api.weatherapi.com/v1/current.json",
   "WEATHER_KEY": "?key=a11e5e346dc04ba2912164622202809",
   "URL_API_DISTANCE_MATRIX": "https://maps.googleapis.com/maps/api/distancematrix/json?",
-  "DISTANCE_MATRIX_KEY": "AIzaSyDh11o-pabWRLbZULqdJxjijYHcqlkAl5U"
+  "DISTANCE_MATRIX_KEY": process.env.GOOGLE_API
 }
